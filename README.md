@@ -1,4 +1,4 @@
-# online-chat-with-file-trashfer UI 
+## online-chat-with-file-trashfer UI 
 # GUI socket聊天室 & 收發檔案
 
 登入畫面（login)：
@@ -8,6 +8,8 @@
 聊天室截圖(chatroom)：
 
 ![image](https://github.com/CCH147/online-chat-with-file-trashfer/assets/127080897/193485a7-4a40-4c95-9f77-bdb4391b0e48)
+
+demo video：https://youtu.be/_-JM7ERrQYs?si=oW0j9W8WbgNTNISa
 
 
 
